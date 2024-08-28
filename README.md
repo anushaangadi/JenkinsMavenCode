@@ -1,4 +1,4 @@
-## Edited - Github webhook demo
+## Global - Github webhook demo
 
 Addressbook Tutorial
 ====================
